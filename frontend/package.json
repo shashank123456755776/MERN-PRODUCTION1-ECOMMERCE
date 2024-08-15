@@ -64,5 +64,5 @@
     "process": "^0.11.10",
     "webpack": "^4.44.2"
   },
-  "proxy": "https://mern-production-repo-ecommerce-1.onrender.com"
+  "proxy": "https://mern-production1-ecommerce.onrender.com"
 }
